@@ -277,7 +277,6 @@ This section represents the most urgent findings in the entire project.
 |------|---------|
 | Microsoft Excel 2019+ | Pivot tables, dashboard, charts |
 | Power Query (Excel) | Data cleaning, Column type conversion, data transformation |
-| Excel Pivot Tables | Aggregations and summaries across all 3 datasets |
 | Excel Slicers | Interactive filtering on the dashboard |
 | Microsoft Word | Formal analyst report for hospital management |
 
